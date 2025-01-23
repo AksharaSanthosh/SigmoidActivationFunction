@@ -87,12 +87,3 @@ print("Sigmoid([[1, 2], [-1, -2]]):", result)
 #  [0.26894142 0.11920292]]
 ```
 
-## Contribution
-
-Feel free to open an issue or submit a pull request if you find bugs or have suggestions for improvements.
-
-## License
-
-This project is licensed under the MIT License.
-
-"""
